@@ -1,0 +1,92 @@
+body{
+    
+    padding: 10px;
+    text-align: center;
+border-color: blueviolet;
+    background-color: gray;
+    color:rgb(60, 255, 0);
+}
+#marv{
+    margin-left: -600px;
+
+}
+
+table,th,td {
+    border: 4px solid pink;
+    border-radius: 15px;
+    width: 60px;
+    padding: 15px;
+    color: white;
+}
+button{
+border: none;
+padding-top: 10px;
+padding-bottom: 12px;
+
+width: 150px;
+margin-bottom: 10px;
+border-radius: 10px;
+margin-top: 20px;
+
+background-color: rgb(68, 172, 172);
+
+}
+
+#total:hover{
+    background: green;
+}
+#oscar:hover{
+    background: blueviolet;
+}
+#ossy:hover{
+    background: red;
+}
+#marvy:hover{
+    background: white;
+}
+#izu:hover{
+    background: grey;
+}
+#oscar{
+    background:green;
+    color: black;
+    margin-left: -550px;
+}
+#ossy{
+    background: green;
+    color: black;
+    margin-left: -550px;
+}
+#marvy{
+    background: blue;
+    color: aliceblue;
+    margin-left: 0px;
+}
+
+
+#total{
+    color: blue;
+    background: yellow;
+    margin-left: -550px;
+}
+#izu{
+    background: blue;
+    color: white;
+    margin-left: 10px;
+}
+#izu:hover{
+    color: yellow;
+}
+#total:hover{
+    color: white;
+}
+#marvy:hover{
+    color: black;
+}
+#oscar:hover{
+    color: yellow;
+}
+#ossy:hover{
+    color: aqua;
+}
+
